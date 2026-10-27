@@ -1,2 +1,2 @@
 # Resizable
-An old trick of a resizable to troll your non technical friends
+An old trick of a resizable frame to troll your non technical friends
